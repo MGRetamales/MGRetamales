@@ -1,7 +1,8 @@
+PhD Candidate at University of Luxembourg.
+
 - 👋 Hi, I’m @MGRetamales
 - 👀 I’m interested in biological data science! 
-- 🌱 I’m currently learning single cell transcriptomics analysis. 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning omics analysis and integration. 
 - 📫 How to reach me: mgretamalesb@gmail.com 
 
 <!---
